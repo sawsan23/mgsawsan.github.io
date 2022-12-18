@@ -11,6 +11,7 @@
     }],
     "orientation":"portrait",
  "author": "sawsan",
+"icons":[
  {
     "src": "https://rawcdn.githack.com/sawsan23/mgsawsan.github.io/ecf8221f6293915d5e97f1392d6c6f0672f2d4e4/fav96.png",
     "sizes": "96x96",
