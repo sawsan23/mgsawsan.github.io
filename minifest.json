@@ -6,9 +6,10 @@
  "start_url": "https://blog.sawsan.pro/",
  "background_color": "#212122",
  "display": "standalone",
- "related_applications": [{"platform": "web"}],
- "orientation": "portrait-primary",
- "version": "1.0.0",
+ "related_applications": [{
+        "platform": "web"
+    }],
+    "orientation":"portrait",
  "author": "sawsan",
  {
     "src": "https://rawcdn.githack.com/sawsan23/mgsawsan.github.io/ecf8221f6293915d5e97f1392d6c6f0672f2d4e4/fav96.png",
