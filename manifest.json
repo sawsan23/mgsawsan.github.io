@@ -6,9 +6,7 @@
  "orientation": "portrait",
  "background_color": "#212122",
  "theme_color": "#212122", 
- "related_applications": [{
- "platform": "web" }],
-  "icons":[
+ "icons":[
  {
     "src": "https://raw.githubusercontent.com/sawsan23/mgsawsan.github.io/main/fav96.png",
     "sizes": "96x96",
